@@ -1,6 +1,3 @@
-# Data-benchmarking
-
-
 ## 📊 Spatial Data Structure Performance Analysis for Restaurant Search
 
 This project analyzes the performance of three spatial data structures—**Linear Search**, **Grid-based Spatial Index**, and **R-tree**—to optimize nearby restaurant search queries in food delivery applications like Swiggy or Zomato. 
